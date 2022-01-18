@@ -1,16 +1,7 @@
 # multi_fab
+Multiple floating action button example in flutter using the package https://pub.dev/packages/flutter_speed_dial
 
-A new Flutter project.
+# preview
 
-## Getting Started
+https://user-images.githubusercontent.com/49438937/149916212-76f25984-6ad1-437e-b000-b075bb3b9dd1.mp4
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
